@@ -19,7 +19,7 @@ The loss function that will be used to calculate the weights for the various lay
 It is widely employed for tuning. We will gather and report the classification accuracy, as stated by the metrics argument because it is a classification problem. In this instance, accuracy will be used.
 
 
-# Input Layer (Ref. ChatGPT)
+# Input Layer 
 
 The input layer in an artificial neural network (ANN) is the initial layer that receives the input data and passes it to the subsequent layers for processing. It serves as the interface between the external world and the network.
 
@@ -37,7 +37,7 @@ Compatibility with the data: The input layer's architecture must be compatible w
 
 The input layer acts as the starting point of information flow in the neural network. It receives the raw data, processes it, and passes it through the subsequent layers, allowing the network to learn and extract meaningful patterns and representations from the input.
 
-# Hidden layers (ref ChatGPT)
+# Hidden layers 
 
 Hidden layers in an artificial neural network (ANN) refer to the layers between the input layer and the output layer. They are called "hidden" because they are not directly observable from the outside, unlike the input and output layers.
 
@@ -50,7 +50,7 @@ The presence of multiple hidden layers in an ANN allows for the formation of hie
 The choice of the number of hidden layers and the number of neurons in each layer depends on the specific problem being solved, the complexity of the data, and the available computational resources. Deep neural networks,which have multiple hidden layers, have shown impressive performance in various domains but may require more data and computational power for training.
 
 
-# Output Layers ( Ref ChatGPT)
+# Output Layers 
 
 The output layer in an artificial neural network (ANN) is the final layer of neurons that produces the network's output or prediction. It is the last layer through which information flows, following the propagation of data through the hidden layers and potentially other intermediate layers.
 
